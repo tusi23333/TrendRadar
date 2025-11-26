@@ -1,77 +1,94 @@
 胖东来
 于东来
+@5
 
 DeepSeek
 梁文锋
+@5
 
 华为
 鸿蒙
 HarmonyOS
 任正非
+@20
 
 比亚迪
 王传福
 
 大疆
 DJI
+@5
 
 宇树
 王兴兴
+@5
 
 智元
 灵犀
 稚晖君
 彭志辉
+@5
 
 黑神话
 冯骥
+@5
 
 影之刃零
 梁其伟
+@5
 
 三体
 流浪地球
 刘慈欣
 郭帆
-
-申奥
+@5
 
 京东
 刘强东
+@10
 
 字节
 bytedance
 张一鸣
+@5
 
 特斯拉
 马斯克
+@5
 
 微软
 Microsoft
+@10
 
 英伟达
 NVIDIA
 黄仁勋
+@10
 
 AMD
+@5
 
 谷歌
 google
 gemini
 deepmind
+@10
 
 chatgpt
 openai
 sora
+@10
 
 claude
 Anthropic
+@10
 
 苹果
 iphone
 ipad
 mac
 ios
+@20
 
 ai
 !gai
@@ -93,15 +110,20 @@ ai
 
 芯片
 光刻机
+@10
 
 科技
+@20
 
 核能
+@5
 
 水电站
 雅鲁藏布江
+@5
 
 新质生产力
+@20
 
 月球
 登月
@@ -109,6 +131,8 @@ ai
 宇宙
 飞船
 航空
+@20
 
 新能源
+@20
 
