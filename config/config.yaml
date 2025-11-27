@@ -115,6 +115,8 @@ platforms:
     name: "MKT新闻"
   - id: "kaopu"
     name: "靠谱新闻"
+  - id: "tencent-hot"
+    name: "腾讯新闻"
 
   # === 财经投资类 ===
   - id: "wallstreetcn-hot"
@@ -157,8 +159,8 @@ platforms:
   #   name: "GitHub"
   # - id: "hackernews"
   #   name: "Hacker News"
-  # - id: "solidot"
-  #   name: "Solidot"
+  - id: "solidot"
+    name: "Solidot"
   - id: "v2ex"
     name: "V2EX"
   # - id: "nowcoder"
@@ -171,12 +173,12 @@ platforms:
     name: "ProductHunt"
 
   # === 其他/工具类 ===
-  # - id: "chongbuluo"
-  #   name: "虫部落"
+  - id: "chongbuluo"
+    name: "虫部落"
   - id: "coolapk"
     name: "酷安"
-  - id: "douban"
-    name: "豆瓣"
+  # - id: "douban"
+  #   name: "豆瓣"
 
   # ======================================================
   # 暂时失败的渠道（可能需要修复或接口已变更）
